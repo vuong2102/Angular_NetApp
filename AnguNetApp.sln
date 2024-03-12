@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnguNetApp", "AnguNetApp\AnguNetApp.csproj", "{28D18976-BE31-4B56-8C3E-1BC681ADC646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{E970A99C-9FDE-4106-9C5B-1973024A0DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{EFD07966-7AB4-440D-AD6F-E50A99DD93E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D18976-BE31-4B56-8C3E-1BC681ADC646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D18976-BE31-4B56-8C3E-1BC681ADC646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D18976-BE31-4B56-8C3E-1BC681ADC646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D18976-BE31-4B56-8C3E-1BC681ADC646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E970A99C-9FDE-4106-9C5B-1973024A0DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E970A99C-9FDE-4106-9C5B-1973024A0DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E970A99C-9FDE-4106-9C5B-1973024A0DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E970A99C-9FDE-4106-9C5B-1973024A0DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD07966-7AB4-440D-AD6F-E50A99DD93E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD07966-7AB4-440D-AD6F-E50A99DD93E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD07966-7AB4-440D-AD6F-E50A99DD93E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD07966-7AB4-440D-AD6F-E50A99DD93E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C6F55C-8BEC-461D-BFAD-E377917EC0A7}
+	EndGlobalSection
+EndGlobal
